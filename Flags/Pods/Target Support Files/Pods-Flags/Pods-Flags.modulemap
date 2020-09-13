@@ -1,0 +1,6 @@
+framework module Pods_Flags {
+  umbrella header "Pods-Flags-umbrella.h"
+
+  export *
+  module * { export * }
+}
